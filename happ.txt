@@ -1,5 +1,4 @@
 I am Lakshmi PS
-I am doing couse on Devops
 
 
 Hello world!
